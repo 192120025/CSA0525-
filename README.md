@@ -46,3 +46,12 @@
 ![image](https://user-images.githubusercontent.com/114907900/194226175-f5356742-aa64-4cdc-8242-4491b52dccab.png)
 ![image](https://user-images.githubusercontent.com/114907900/194226207-0a6d7458-5a49-4537-b4e6-d6aed4d3014b.png)
 
+## exp 12 outputs
+![image](https://user-images.githubusercontent.com/114907900/194249343-5d1d04c0-9dc3-4b88-979f-d59c8a147807.png)
+![image](https://user-images.githubusercontent.com/114907900/194249365-7045a2b3-150d-40e8-b264-37ceaa27adb6.png)
+
+## exp 13 outputs
+![image](https://user-images.githubusercontent.com/114907900/194249477-4c3e6625-eebc-485a-8dbd-bda03bc1e17f.png)
+
+## exp 14 outputs
+![image](https://user-images.githubusercontent.com/114907900/194249601-cb0ba43c-2e6a-4aea-a270-a52bc809c3f9.png)
