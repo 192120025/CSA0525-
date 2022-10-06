@@ -55,3 +55,16 @@
 
 ## exp 14 outputs
 ![image](https://user-images.githubusercontent.com/114907900/194249601-cb0ba43c-2e6a-4aea-a270-a52bc809c3f9.png)
+
+## exp 15 outputs
+![image](https://user-images.githubusercontent.com/114907900/194350585-813c80f9-ac2d-4e72-81eb-38c84d11f189.png)
+
+## exp 16 outputs
+![image](https://user-images.githubusercontent.com/114907900/194350719-735f0203-f366-45f8-aaf2-58b2b18e1909.png)
+
+## exp 17 outputs
+![image](https://user-images.githubusercontent.com/114907900/194350816-b90b4963-407e-4465-b69a-6305f39ea965.png)
+
+## exp 18 outputs
+![image](https://user-images.githubusercontent.com/114907900/194350915-0dc2b227-cfb0-4f41-91f4-94743f744444.png)
+
